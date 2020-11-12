@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="144" height="144" viewBox="0 0 144 144">
+  <defs>
+    <clipPath id="clip-truck2">
+      <rect width="144" height="144"/>
+    </clipPath>
+  </defs>
+  <g id="truck2" clip-path="url(#clip-truck2)">
+    <g id="delivery-truck" transform="translate(13.948 -21.653)">
+      <g id="Group_97" data-name="Group 97" transform="translate(0 48.025)">
+        <g id="Group_96" data-name="Group 96" transform="translate(0 0)">
+          <path id="Path_53" data-name="Path 53" d="M116.11,117.711v-19.5a18.863,18.863,0,0,0-2.074-8.3L101.625,68.765a8.029,8.029,0,0,0-7.051-4.148H75.908a5.491,5.491,0,0,0-5.393,5.392v44.383H66.367V56.321a8.32,8.32,0,0,0-8.3-8.3H0v74.663H12.444A16.918,16.918,0,0,1,28.62,110.244,16.552,16.552,0,0,1,44.8,122.688h30.28a16.918,16.918,0,0,1,16.177-12.444,15.732,15.732,0,0,1,14.518,9.126,6.425,6.425,0,0,0,5.361,3.318C114.036,122.688,116.526,120.2,116.11,117.711Zm-37.3-24.058V72.913H95.4l12.029,20.74Z" transform="translate(0 -48.025)" fill="#5c5959"/>
+        </g>
+      </g>
+      <g id="Group_99" data-name="Group 99" transform="translate(78.811 114.392)">
+        <g id="Group_98" data-name="Group 98">
+          <path id="Path_54" data-name="Path 54" d="M316.444,304.025a12.444,12.444,0,1,0,12.444,12.444A12.222,12.222,0,0,0,316.444,304.025Zm0,18.251a5.807,5.807,0,1,1,5.807-5.807A5.67,5.67,0,0,1,316.444,322.276Z" transform="translate(-304 -304.025)" fill="#5c5959"/>
+        </g>
+      </g>
+      <g id="Group_101" data-name="Group 101" transform="translate(16.592 114.392)">
+        <g id="Group_100" data-name="Group 100">
+          <path id="Path_55" data-name="Path 55" d="M76.444,304.025a12.444,12.444,0,1,0,12.444,12.444A12.222,12.222,0,0,0,76.444,304.025Zm0,18.251a5.807,5.807,0,1,1,5.807-5.807A5.67,5.67,0,0,1,76.444,322.276Z" transform="translate(-64 -304.025)" fill="#5c5959"/>
+        </g>
+      </g>
+      <g id="Group_103" data-name="Group 103" transform="translate(26.588 125.122)">
+        <g id="Group_102" data-name="Group 102" transform="translate(0 0)">
+          <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="2" cy="2.5" rx="2" ry="2.5" transform="translate(0.465 -0.47)" fill="#5c5959"/>
+        </g>
+      </g>
+      <g id="Group_105" data-name="Group 105" transform="translate(89.527 125.122)">
+        <g id="Group_104" data-name="Group 104" transform="translate(0 0)">
+          <circle id="Ellipse_13" data-name="Ellipse 13" cx="2.5" cy="2.5" r="2.5" transform="translate(-0.475 -0.47)" fill="#5c5959"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
